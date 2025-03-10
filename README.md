@@ -35,7 +35,7 @@ Communion is a modern web application built to foster connections and understand
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/communion-app.git
+   git clone https://github.com/Karthishkm/CommunionHub.git
    ```
 
 2. Install dependencies:
